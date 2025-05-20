@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jassica</h1>
-<h3 align="center">Self taught data scientist and a passionate web developer.</h3>
+<h3 align="center">Grinding myself with backend and ml.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jezzej" alt="jezzej" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce Website using React js**
+- 🔭 I’m currently working on **my final year project.**
 
-- 🌱 I’m currently learning **MERN stack + system design**
+- 🌱 I’m currently learning **MERN stack + system design + ml**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
